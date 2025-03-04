@@ -6,7 +6,6 @@ import Contact from './pages/Contact'
 import About from './pages/About'
 import Footer from './components/Footer'
 import Restaurant from './pages/Restaurant'
-import img from './assets/image.png'
 
 const App = () => {
   return (
